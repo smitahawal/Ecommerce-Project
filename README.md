@@ -1,2 +1,2 @@
-# Ecommerce-Projrct
+# Ecommerce-Project
 Produce grossary, crocary clothes shoes etc
